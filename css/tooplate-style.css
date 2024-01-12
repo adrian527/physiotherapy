@@ -62,12 +62,12 @@ p:last-child {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  padding: 45px;
+  padding: 3px;
 }
 
 .tm-nav-section {
   position: absolute;
-  top: 158px;
+  top: 280px;
   left: 0;
   width: 100%;
   border-top: 1px solid #909090;
@@ -208,7 +208,7 @@ p:last-child {
   justify-content: center;
   width: 100%;
   height: 240px;
-  background-image: url(../img/img-activities.jpg);
+  background-image: url(../img/cennik2.jpg);
   margin-bottom: 68px;
   position: relative;
 }
@@ -499,7 +499,7 @@ figure {
 
   .navbar {
     text-align: center;
-    padding: 3px 0;
+    padding: 10px 0;
     margin-right: 0;
     margin-left: auto;
   }
