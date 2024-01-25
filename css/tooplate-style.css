@@ -433,12 +433,6 @@ figure {
   transition: opacity 0s linear;
 }
 
-@media (min-width: 768px) {
-  .tm-feature-block {
-    margin-bottom: 0;
-  }
-}
-
 @media (min-width: 992px) {
   .tm-activity-block {
     max-width: 582px;
