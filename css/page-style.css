@@ -79,3 +79,22 @@
 .tm-contact-right {
   padding: 1rem;
 }
+
+.phone {
+  background-color: white;
+  border: 1px solid black;
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+  line-height: 300%;
+  font-size: 2rem;
+  padding: 0 3rem;
+  border-radius: 0.75rem;
+  z-index: 1000000;
+}
+
+@media (max-width: 900px) {
+  .phone-value {
+    display: none;
+  }
+}
