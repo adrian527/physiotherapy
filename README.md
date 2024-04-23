@@ -12,6 +12,5 @@ This website is designed to provide information about the physiotherapy services
 - **About Us:** Learn about our company's mission, values, and team of dedicated professionals.
 - **Contact Information:** Find ways to get in touch with us for inquiries or appointments.
 
-Preview: https://lukaszwolnyfizjoterapia.pl/
-
-Thank you for visiting our Physiotherapy Page!
+## Preview
+https://lukaszwolnyfizjoterapia.pl/
